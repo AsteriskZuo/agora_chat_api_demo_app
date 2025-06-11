@@ -87,7 +87,7 @@ android {
     }
     signingConfigs {
         debug {
-            storeFile file('debug.keystore')git remote add origin git@github.com:AsteriskZuo/agora_chat_api_demo_app.git
+            storeFile file('debug.keystore')
             storePassword 'android'
             keyAlias 'androiddebugkey'
             keyPassword 'android'

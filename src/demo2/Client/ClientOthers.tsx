@@ -5,7 +5,7 @@ import {
   ChatMessage,
   ChatPushConfig,
   ChatTextMessageBody,
-} from 'react-native-agora-chat';
+} from 'react-native-shengwang-chat';
 
 // import messaging from '@react-native-firebase/messaging';
 import { datasheet } from '../__default__/Datasheet';

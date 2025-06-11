@@ -1,6 +1,6 @@
 import React, {Component, type ReactNode} from 'react';
 import {ScrollView, Switch, Text, TextInput, View} from 'react-native';
-import {ChatClient, ChatOptions, ChatPushConfig} from 'react-native-agora-chat';
+import {ChatClient, ChatOptions, ChatPushConfig} from 'react-native-shengwang-chat';
 
 import {datasheet} from '../__default__/Datasheet';
 import {styleValues} from '../__internal__/Css';
@@ -124,6 +124,7 @@ export class AppKeyScreen extends Component<{navigation: any}, State, any> {
     ChatClient.getInstance()
       .init(
         new ChatOptions({
+          appId: appId,
           appKey: appKey,
           autoLogin: false,
           debugModel: true,

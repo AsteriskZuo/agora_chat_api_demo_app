@@ -3,7 +3,7 @@ import {
   ChatError,
   type ChatGroupFileStatusCallback,
   ChatGroupOptions,
-} from 'react-native-agora-chat';
+} from 'react-native-shengwang-chat';
 
 import { metaDataList, MN } from './QuickTestGroupData';
 import {

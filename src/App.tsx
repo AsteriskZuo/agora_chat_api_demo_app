@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
-// import { multiply } from 'react-native-agora-chat';
+// import { multiply } from 'react-native-shengwang-chat';
 
 export default function App() {
   const [result] = React.useState<number | undefined>();

@@ -1,7 +1,7 @@
 import {
   ChatClient,
   type ChatContactEventListener,
-} from 'react-native-agora-chat';
+} from 'react-native-shengwang-chat';
 
 import { metaDataList, MN } from './QuickTestContactData';
 import {

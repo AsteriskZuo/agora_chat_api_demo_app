@@ -7,7 +7,7 @@ import {
   type ChatMessageStatusCallback,
   ChatMessageType,
   ChatTextMessageBody,
-} from 'react-native-agora-chat';
+} from 'react-native-shengwang-chat';
 import {
   ChatClient,
   ChatConversationTypeFromNumber,
@@ -19,7 +19,7 @@ import {
   ChatMessageReactionEvent,
   ChatMessageThreadEvent,
   ChatMessageTypeFromString,
-} from 'react-native-agora-chat';
+} from 'react-native-shengwang-chat';
 
 import { styleValues } from '../__internal__/Css';
 import type { ApiParams } from '../__internal__/DataTypes';

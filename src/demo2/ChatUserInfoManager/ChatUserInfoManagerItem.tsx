@@ -1,6 +1,6 @@
 import React, { type ReactNode } from 'react';
 import { View } from 'react-native';
-import { ChatClient } from 'react-native-agora-chat';
+import { ChatClient } from 'react-native-shengwang-chat';
 
 import { styleValues } from '../__internal__/Css';
 import type { ApiParams } from '../__internal__/DataTypes';

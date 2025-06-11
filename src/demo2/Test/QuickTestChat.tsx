@@ -12,7 +12,7 @@ import {
   type ChatMessageStatusCallback,
   ChatMessageThreadEvent,
   ChatMessageType,
-} from 'react-native-agora-chat';
+} from 'react-native-shengwang-chat';
 
 import { ChatManagerCache } from './ChatManagerCache';
 import { metaDataList, MN } from './QuickTestChatData';

@@ -1,4 +1,4 @@
-import { ChatContact } from 'react-native-agora-chat';
+import { ChatContact } from 'react-native-shengwang-chat';
 
 import { datasheet } from '../__default__/Datasheet';
 import type { ApiParams } from '../__internal__/DataTypes';

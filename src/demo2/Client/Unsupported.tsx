@@ -5,7 +5,7 @@ import {
   ChatException,
   type ChatExceptionEventListener,
   type ChatMessageEventListener,
-} from 'react-native-agora-chat';
+} from 'react-native-shengwang-chat';
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 
 type Props = {

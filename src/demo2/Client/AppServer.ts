@@ -1,4 +1,4 @@
-import { ChatClient } from 'react-native-agora-chat';
+import { ChatClient } from 'react-native-shengwang-chat';
 
 export class AppServerClient {
   private static _rtcTokenUrl: string =

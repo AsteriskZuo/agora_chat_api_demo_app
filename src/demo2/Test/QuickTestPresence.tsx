@@ -1,4 +1,4 @@
-import { ChatClient, ChatMessage } from 'react-native-agora-chat';
+import { ChatClient, ChatMessage } from 'react-native-shengwang-chat';
 
 import { metaDataList, MN } from './QuickTestPresenceData';
 import {

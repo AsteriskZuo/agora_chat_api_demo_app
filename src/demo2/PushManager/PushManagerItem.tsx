@@ -5,7 +5,7 @@ import {
   ChatConversation,
   ChatPushDisplayStyle,
   ChatSilentModeParam,
-} from 'react-native-agora-chat';
+} from 'react-native-shengwang-chat';
 
 import { styleValues } from '../__internal__/Css';
 import type { ApiParams } from '../__internal__/DataTypes';
